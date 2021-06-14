@@ -1,0 +1,17 @@
+.searchSection {
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  background: #fff;
+}
+
+.searchTitle {
+  font-size: 80px;
+  padding: 5rem;
+}
+
+.beerIcon {
+  padding: 1rem;
+  height: 150px;
+  width: 150px;
+}

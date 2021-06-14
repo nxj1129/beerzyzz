@@ -1,0 +1,27 @@
+.infoSection {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  background: rgb(75, 74, 74);
+}
+
+.infoTitle {
+  font-size: 50px;
+  color: #fff;
+}
+
+.infoText {
+  padding-top: 5rem;
+  color: #fff;
+}
+
+.leftColumn,
+.rightColumn {
+  width: 50%;
+  place-items: center;
+  padding: 5rem;
+}
+
+.beerGif {
+  padding: 5rem;
+}
